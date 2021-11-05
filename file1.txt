@@ -5,3 +5,4 @@ Add new text in this text
 New text str
 New sixth text string
 Seventh string
+String
