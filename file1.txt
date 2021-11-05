@@ -3,3 +3,4 @@ Write the second line
 Write the third line in file
 Add new text in this text
 New text str
+New sixth text string
