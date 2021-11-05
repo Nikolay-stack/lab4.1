@@ -1,1 +1,2 @@
 New file, some text
+Add new text in this text
